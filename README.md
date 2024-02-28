@@ -1,4 +1,4 @@
-# Tic-Tac-Farm-Android-App
+# Tic Tac Farm Android App
 
 The [Playstore Listing](https://play.google.com/store/apps/details?id=com.chickencatstudio.TicTacFarm).
 
